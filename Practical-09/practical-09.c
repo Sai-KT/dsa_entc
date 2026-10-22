@@ -1,6 +1,6 @@
 /**
  * Practical 09: Graph Traversals (BFS and DFS) using Adjacency Matrix
- * Roll Number: 13 | Division: SE A
+ * Student: Pushpak Bagade | Roll No: SEA 13 (SE A)
  * Academic Year: 2026-27
  */
 

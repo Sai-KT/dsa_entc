@@ -1,6 +1,6 @@
 /**
  * Practical 03: Contact Directory Management (Linear vs Binary Search)
- * Roll Number: 13 | Division: SE A
+ * Student: Pushpak Bagade | Roll No: SEA 13 (SE A)
  * Academic Year: 2026-27
  */
 

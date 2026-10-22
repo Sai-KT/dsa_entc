@@ -8,7 +8,7 @@
 
 ## 👤 Student Information
 * **Student Name:** Pushpak Bagade
-* **Roll Number:** 13
+* **Roll Number:** SEA 13
 * **Division:** SE A
 * **Batch:** C1
 * **Course Name:** Data Structures and Algorithms Laboratory

@@ -1,6 +1,6 @@
 /**
  * Practical 05: Circular Queue Implementation for Parcel Management System
- * Roll Number: 13 | Division: SE A
+ * Student: Pushpak Bagade | Roll No: SEA 13 (SE A)
  * Academic Year: 2026-27
  */
 
